@@ -1,6 +1,6 @@
 # Netflix Clone Project for WebDev Internship
 
-A Netflix clone built as a part of my web development internship at Bharat Intern. Features include user authentication, movie/series listings, and search functionality.
+A Netflix clone built as a part of my web development internship at Bharat Intern. 
 
 **Tech Stack:** HTML, CSS, JavaScript
 
