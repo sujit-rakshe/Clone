@@ -12,7 +12,7 @@ A Netflix clone built as a part of my web development internship at Bharat Inter
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
+![Homepage](Screenshots/screenshot1.png)
 ![Movie Listings](screenshots/movies.png)
 ![Search Results](screenshots/search.png)
 
