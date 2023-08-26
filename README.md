@@ -13,10 +13,13 @@ A Netflix clone built as a part of my web development internship at Bharat Inter
 ## Screenshots
 
 ![Homepage](Screenshots/Screenshot1.png)
-![Movie Listings](screenshots/movies.png)
-![Search Results](screenshots/search.png)
+![Feature1](Screenshots/Screenshot2.png)
+![Feature2](Screenshots/Screenshot3.png)
+![Feature3](Screenshots/Screenshot4.png)
+![Feature4](Screenshots/Screenshot5.png)
+![FAQ](Screenshots/Screenshot6.png)
+![Footer](Screenshots/Screenshot7.png)
 
-#WebDev #NetflixClone #BharatIntern
 
 ## License
 
