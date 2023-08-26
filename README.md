@@ -4,7 +4,7 @@ A Netflix clone built as a part of my web development internship at Bharat Inter
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-🚀 **Check out the live demo:** [Live Demo Link]
+🚀 **Check out the live demo:** [Live Demo Link](https://sujit-rakshe.github.io/Netflix-Clone/)
 
 📝 This project is developed for learning purposes and to demonstrate my skills in frontend web development.
 
